@@ -7,6 +7,6 @@
 4. Goal : Python Lady!
 
 ### Week1
-1. Finished LeetCode: Disign Linked list
+1. Finished LeetCode: Disign Linked list -- 260 ms, faster than 71.86% of Python online submissions for Design Linked List.
 
 
