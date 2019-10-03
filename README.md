@@ -9,4 +9,6 @@
 ### Week1
 1. Finished LeetCode: Disign Linked list -- 260 ms, faster than 71.86% of Python online submissions for Design Linked List.
 
+### Week3 
+1. Finished LeetCode: Set Mismatch -- 220 ms, faster than 87.25% of Python3 online submissions for Set Mismatch.
 
