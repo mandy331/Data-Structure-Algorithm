@@ -3,7 +3,7 @@
 ## Self-introductiong
     Name : Mandy, Huang
 
-## Linked-list(week1)
+## Linked-list(Week1)
 ##### Finished LeetCode: Disign Linked list
 > Linked-List : 
 > 1. Linked list是用node(節點)來記錄、表示、儲存資料(data)，並利用每個node中的pointer指向下一個node，藉此將多個node串連起來，形成Linked list，並以NULL來代表Linked list的終點。
@@ -12,6 +12,6 @@
 ## Week3 
 ##### Finished LeetCode: Set Mismatch
 
-## Week4
+## Insertion Sort & Qick Sort(Week4)
 ##### Finished LeetCode: Insertion Sort List
 > Insertion Sort List
