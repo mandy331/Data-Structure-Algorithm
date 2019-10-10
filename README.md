@@ -10,5 +10,8 @@
 > 2. 以火車為例，可以把node想像成火車廂，火車廂內的乘客數想為data，每一節車廂和下一節車廂的連結想為pointer，藉由pointer把車廂串連起來。
 
 ## Week3 
-* Finished LeetCode: Set Mismatch -- 220 ms, faster than 87.25% of Python3 online submissions for Set Mismatch.
+##### Finished LeetCode: Set Mismatch
 
+## Week4
+##### Finished LeetCode: Insertion Sort List
+> Insertion Sort List
