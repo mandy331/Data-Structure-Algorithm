@@ -3,6 +3,10 @@
 ## Self-introductiong
     Name : Mandy, Huang
 
+## Tool:
+    Debug mode
+    eval
+
 ## Week1 - Linked-list
 ##### Finished LeetCode: Disign Linked list
 > Linked-List : 
