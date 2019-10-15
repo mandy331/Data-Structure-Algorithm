@@ -4,8 +4,8 @@
     Name : Mandy, Huang
 
 ## Tool:
-    Debug mode
-    eval
+    Spyder : Debug mode
+    Eval : Test way
     費氏數列
 
 ## Week1 - Linked-list
