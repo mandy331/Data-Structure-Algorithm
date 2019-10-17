@@ -1,7 +1,7 @@
 # Data Structure and Algorithm
 
 ## Self-introductiong
-    Name : Mandy, Huang
+    我是閔慈，自認邏輯不是特別好，只好
 
 ## 本週作業：
 - [HW1 - QuickSort](Week4/QuickSort.ipynb) 
@@ -10,7 +10,8 @@
     1. Debug : Spyder
     2. Test way : Eval
     3. Recurrsive : 費氏數列
-    4. Markdown : 
+    4. Markdown : [超好用Markdown筆記](http://xianbai.me/learn-md/index.html) 
+    5. 如果你的ipynb檔一直在Github上Reload失敗 : [不如試試這個吧!免安裝喔](https://nbviewer.jupyter.org/) 
 
 ## Week1 - Linked-list
 ##### Finished LeetCode: Disign Linked list
