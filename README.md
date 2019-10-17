@@ -22,7 +22,7 @@
 ## Week3 - Queue & Stack 
 ##### Finished LeetCode: Set Mismatch
 
-## Week4 - Insertion Sort & Quick Sort
+## Week4 - Insertion Sort & Insertion Sort
 ##### Finished LeetCode: Insertion Sort List
 ###### <a href="https://www.youtube.com/watch?v=O0VbBkUvriI">Insertion Sort_CS50</a>
 > Insertion Sort List
@@ -30,3 +30,5 @@
 >      Call the first element of the array "sorted". 
 >      Repeat until all elements are sorted: Look at the next unsorted element. Insert into the "sorted" portion by shifting
 >      the requisite number of element. 
+
+##### Finished Quick Sort
