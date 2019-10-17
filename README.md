@@ -1,7 +1,7 @@
 # Data Structure and Algorithm
 
 ## Self-introductiong
-    我是閔慈，自認邏輯不是特別好，只好
+    我是閔慈!
 
 ## 本週作業：
 - [HW1 - QuickSort](Week4/QuickSort.ipynb) 
