@@ -4,8 +4,8 @@
     Name : Mandy, Huang
 
 ## 本週作業：
-    <a href="Week4/QuickSort.ipynb">Hw1-QuickSort</a>
-    [HW1-QuickSort](./Week4/QuickSort.ipynb)
+- [HW1 - QuickSort](Week4/QuickSort.ipynb) 
+
 ## Tool:
     1. Debug : Spyder
     2. Test way : Eval
