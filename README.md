@@ -3,6 +3,10 @@
 ## Self-introductiong
     Name : Mandy, Huang
 
+## 本週作業：
+    [Hw1-QuickSort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.ipynb)
+
+
 ## Tool:
     Spyder : Debug mode
     Eval : Test way
