@@ -1,17 +1,19 @@
 # Data Structure and Algorithm
 
 ## Self-introductiong
-    我是閔慈!
+    我是閔慈!這裡是我的學習筆記!
 
 ## 本週作業：
 - [HW1 - QuickSort](Week4/QuickSort.ipynb) 
 
-## Tool:
-1. Debug : Spyder
-2. Test way : Eval
-3. Recurrsive : 費氏數列
-4. Markdown : [超好用Markdown筆記](http://xianbai.me/learn-md/index.html) 
-5. 如果你的ipynb檔一直在Github上Reload失敗 : [不如試試這個吧!免安裝](https://nbviewer.jupyter.org/) 
+## Helpers:
+1. CS50 : [CS50 YouTube](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+2. Debug : Spyder
+3. Test way : eval
+4. Recurrsive : 複習費氏數列啊！
+5. Markdown : [超好用Markdown筆記](http://xianbai.me/learn-md/index.html) 
+6. 如果你的ipynb檔一直在Github上Reload失敗 : [不如試試這個吧!免安裝](https://nbviewer.jupyter.org/) 
+ 
 
 ## Week1 - Linked-list
 ##### Finished LeetCode: Disign Linked list
@@ -30,5 +32,3 @@
 >      Call the first element of the array "sorted". 
 >      Repeat until all elements are sorted: Look at the next unsorted element. Insert into the "sorted" portion by shifting
 >      the requisite number of element. 
-
-##### Finished Quick Sort
