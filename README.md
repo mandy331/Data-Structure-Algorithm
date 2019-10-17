@@ -4,12 +4,13 @@
     Name : Mandy, Huang
 
 ## 本週作業：
-    <a href="https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.ipynb">Hw1-QuickSort</a>
-
+    <a href="Week4/QuickSort.ipynb">Hw1-QuickSort</a>
+    [HW1-QuickSort](./Week4/QuickSort.ipynb)
 ## Tool:
-    Spyder : Debug mode
-    Eval : Test way
-    費氏數列
+    1. Debug : Spyder
+    2. Test way : Eval
+    3. Recurrsive : 費氏數列
+    4. Markdown : 
 
 ## Week1 - Linked-list
 ##### Finished LeetCode: Disign Linked list
