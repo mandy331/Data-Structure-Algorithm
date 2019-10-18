@@ -32,3 +32,5 @@
 >      Call the first element of the array "sorted". 
 >      Repeat until all elements are sorted: Look at the next unsorted element. Insert into the "sorted" portion by shifting
 >      the requisite number of element. 
+
+## Week5 - Heap Sort
