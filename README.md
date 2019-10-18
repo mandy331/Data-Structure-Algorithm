@@ -5,6 +5,7 @@
 
 ## 本週作業：
 - [HW1 - QuickSort](Week4/QuickSort.ipynb) 
+- [流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.png) 
 
 ## Helpers:
 1. CS50 : [CS50 YouTube](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
