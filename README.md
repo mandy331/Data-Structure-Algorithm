@@ -16,11 +16,11 @@
 6. 如果你的ipynb檔一直在Github上Reload失敗 : [不如試試這個吧!免安裝](https://nbviewer.jupyter.org/) 
  
 ## Data Structure & Algorithm:
-+ Linked-list: [Linked-list](Week1/Design Linked-list.py)
++ Linkedlist: [Linkedlist](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week1/Linkedlist.py)
 + Queue:
 + Stack:
-+ Set: [Set](Week3/Set Mismatch.ipynb)
-+ Insertion Sort: 
++ Set: [Set](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week3/Set.py)
++ Insertion Sort: [Insertion Sort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/InsertionSort.ipynb)
 + Quick Sort: [QuickSort](Week4/QuickSort.ipynb)、[QuickSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.png)
 + Heap Sort: 
 
