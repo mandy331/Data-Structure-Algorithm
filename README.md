@@ -20,7 +20,7 @@
 + Queue:
 + Stack:
 + Set: [Set](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week3/Set.py)
-+ Insertion Sort: [Insertion Sort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/InsertionSort.py)、[QuickSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/Sort.png)
++ Insertion Sort: [Insertion Sort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/InsertionSort.py)、[InsertionSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/Sort.png)
 + Quick Sort: [QuickSort](Week4/QuickSort.ipynb)、[QuickSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.png)
 + Heap Sort: 
 
