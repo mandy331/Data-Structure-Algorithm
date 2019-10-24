@@ -3,7 +3,7 @@
 ## Self-introductiong
     我是閔慈!這裡是我的學習筆記!
 
-## 本週作業：
+## HW1：
 - [HW1 - QuickSort](Week4/QuickSort.ipynb) 
 - [流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.png) 
 
@@ -16,16 +16,13 @@
 6. 如果你的ipynb檔一直在Github上Reload失敗 : [不如試試這個吧!免安裝](https://nbviewer.jupyter.org/) 
  
 ## Data Structure & Algorithm:
-+ Linked-list: 
++ Linked-list: [Linked-list](Week1/Design Linked-list.py)
 + Queue:
 + Stack:
-+ Set:
++ Set: [Set](Week3/Set Mismatch.ipynb)
 + Insertion Sort: 
 + Quick Sort: [QuickSort](Week4/QuickSort.ipynb)、[QuickSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.png)
 + Heap Sort: 
-
-
-
 
 
 
