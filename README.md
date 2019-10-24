@@ -16,13 +16,13 @@
 6. 如果你的ipynb檔一直在Github上Reload失敗 : [不如試試這個吧!免安裝](https://nbviewer.jupyter.org/) 
  
 ## Data Structure & Algorithm:
-+ Linkedlist: [Linkedlist](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week1/Linkedlist.py)
-+ Queue:
-+ Stack:
-+ Set: [Set](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week3/Set.py)
-+ Insertion Sort: [Insertion Sort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/InsertionSort.py)、[InsertionSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/Sort.png)
-+ Quick Sort: [QuickSort](Week4/QuickSort.ipynb)、[QuickSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.png)
-+ Heap Sort: 
++ Week1-Linkedlist: [Linkedlist](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week1/Linkedlist.py)
++ Week2-Queue:
++ Week2-Stack:
++ Week3-Set: [Set](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week3/Set.py)
++ Week4-Insertion Sort: [Insertion Sort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/InsertionSort.py)、[InsertionSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/Sort.png)
++ Week4-Quick Sort: [QuickSort](Week4/QuickSort.ipynb)、[QuickSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.png)
++ Week6-Heap Sort: [HeapSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week6/HeapSort.png)
 
 
 
