@@ -11,7 +11,7 @@
 1. CS50 : [CS50 YouTube](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 2. Debug : Spyder
 3. Test way : eval
-4. Recurrsive : 複習費氏數列啊！
+4. Recurrsive : [費氏數列](https://emn178.pixnet.net/blog/post/91987861)
 5. Markdown : [超好用Markdown筆記](http://xianbai.me/learn-md/index.html) 
 6. 如果你的ipynb檔一直在Github上Reload失敗 : [不如試試這個吧!免安裝](https://nbviewer.jupyter.org/) 
  
