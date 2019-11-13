@@ -11,6 +11,7 @@
 4. Recurrsive : [費氏數列](https://emn178.pixnet.net/blog/post/91987861)
 5. Markdown : [超好用Markdown筆記](http://xianbai.me/learn-md/index.html) 
 6. 如果你的ipynb檔一直在Github上Reload失敗 : [不如試試這個吧!免安裝](https://nbviewer.jupyter.org/) 
+7. Jupyter Notebook快捷鍵: [Jupyter Notebook 快捷轉換code和markdown](https://blog.csdn.net/qq_35423500/article/details/79565146)
  
 ## Data Structure & Algorithm:
 + Week1-Linkedlist: [Linkedlist](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week1/Linkedlist.py)
