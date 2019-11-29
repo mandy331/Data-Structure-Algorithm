@@ -11,7 +11,8 @@
 4. Recurrsive : [費氏數列](https://emn178.pixnet.net/blog/post/91987861)
 5. Markdown : [超好用Markdown筆記](http://xianbai.me/learn-md/index.html) 
 6. 如果你的ipynb檔一直在Github上Reload失敗 : [不如試試這個吧!免安裝](https://nbviewer.jupyter.org/) 
-7. Jupyter Notebook快捷鍵: [Jupyter Notebook 快捷轉換code和markdown](https://blog.csdn.net/qq_35423500/article/details/79565146)
+7. Jupyter Notebook快捷鍵 - Part1: [Jupyter Notebook 快捷轉換code和markdown](https://blog.csdn.net/qq_35423500/article/details/79565146)
+8. Jupyter Notebook快捷鍵 - Part2: Control + / => 註解
  
 ## Data Structure & Algorithm:
 + Week1-Linkedlist: [Linkedlist](Week1/Linkedlist.ipynb)、[Linkedlist參考圖片](Week1/Linked-list1.png)
@@ -23,3 +24,4 @@
 + Week7-Heap Sort: [HeapSort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week7/HeapSort%E6%B5%81%E7%A8%8B%E5%9C%96%26%E8%AA%AA%E6%98%8E2.ipynb)、[HeapSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week7/HeapSort.png)
 + Week7-MergeSort: [MergeSort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week7/MergeSort%E6%B5%81%E7%A8%8B%E5%9C%96%26%E8%AA%AA%E6%98%8E2.ipynb)、[MergeSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week7/MergeSort.png)
 + Week8-BinarySearchTree: [BinarySearchTree](Week8/BinarySearchTree.ipynb)、[BST流程圖](Week8/BinarySearchTree.png)
+
