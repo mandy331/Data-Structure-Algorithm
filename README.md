@@ -16,8 +16,7 @@
  
 ## Data Structure & Algorithm:
 + Week1-Linkedlist: [Linkedlist](Week1/Linkedlist.ipynb)、[Linkedlist參考圖片](Week1/Linked-list1.png)
-+ Week2-Queue:
-+ Week2-Stack:
++ Week2-Stack & Queue:
 + Week3-Set: [Set](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week3/Set.py)
 + Week4-Insertion Sort: [Insertion Sort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/InsertionSort.py)、[InsertionSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/Sort.png)
 + Week4-Quick Sort: [QuickSort](Week4/QuickSort.ipynb)、[QuickSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.png)
