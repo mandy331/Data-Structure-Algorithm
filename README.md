@@ -16,7 +16,7 @@
  
 ## Data Structure & Algorithm:
 + Week1-Linkedlist: [Linkedlist](Week1/Linkedlist.ipynb)、[Linkedlist參考圖片](Week1/Linked-list1.png)
-+ Week2-Stack & Queue:
++ Week2-Stack & Queue: [Stack&Queue](Week2/Stack&Queue學習歷程&流程圖.ipynb)、[Stack&Queue流程圖](Week2/Stack&Queue.png)
 + Week3-Set: [Set](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week3/Set.py)
 + Week4-Insertion Sort: [Insertion Sort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/InsertionSort.py)、[InsertionSort流程圖](Week4/InsertionSort.png)
 + Week4-Quick Sort: [QuickSort](Week4/QuickSort.ipynb)、[QuickSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week4/QuickSort.png)
@@ -24,3 +24,4 @@
 + Week7-MergeSort: [MergeSort](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week7/MergeSort%E6%B5%81%E7%A8%8B%E5%9C%96%26%E8%AA%AA%E6%98%8E2.ipynb)、[MergeSort流程圖](https://github.com/mandy331/Data-Structure_PythonNote/blob/master/Week7/MergeSort.png)
 + Week8-BinarySearchTree: [BinarySearchTree](Week8/BinarySearchTree.ipynb)、[BST流程圖](Week8/BinarySearchTree.png)
 + Week10-Hash Table: [HashTable](Week10/HashTable學習歷程&流程圖.ipynb)、[HashTable流程圖](Week10/HashTable.png)
++ Week12-BreadthFirstSearch & DepthFirstSearch: [BFS&DFS](Week12/BFS&DFS的學習歷程&流程圖.ipynb)、[BFS流程圖](Week12/BFS.png)、[DFS流程圖](Week12/DFS.png)
