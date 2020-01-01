@@ -34,16 +34,18 @@
 + 情況:
     + 查詢(get(self, idx)): 1. idx不在範圍裡:return None 2. idx在範圍裡，就走訪到idx: return value
     + 新增(addAtHead(x), addAtTail(x), addAtIndex(idx, x)): 
-        + 1.addAtHead. addAtTail: 
+        + 1. addAtHead. addAtTail: 
             + 若length == 0: 新增於head
         + 2. addAtIndex:
             + idx不在範圍裡: pass
-            + idx == 0: addAtHead
-            + idx == self.length: addAtTail
-            + else idx: 走訪到idx前一個
+            + 加在頭: addAtHead
+            + 加在尾: addAtTail
+            + 加中間: 走訪到idx前一個
     + 刪除(deleteAtIndex(idx)):
         + 1. idx不在範圍裡: pass
-        + 2. length == 0: pass
-        + 3. idx == 0:
+        + 2. linkedlist的長度為0: pass
+        + 3. 刪開頭(idx == 0):
             + 當length == 1，刪第一個
-        + 4. 
+            + 當length > 1
+        + 4. 刪尾巴(idx == length - 1 and length>=2)
+        + 5. 刪中間
