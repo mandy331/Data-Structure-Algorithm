@@ -25,3 +25,25 @@
 + Week8-Binary Search Tree: [BinarySearchTree](Week8/BinarySearchTree學習歷程&流程圖.ipynb)、[BST流程圖](Week8/BinarySearchTree.png)、[BinarySearchTree功能說明](Week8/BinarySearchTree功能說明.md)
 + Week10-Hash Table: [HashTable](Week10/HashTable學習歷程&流程圖.ipynb)、[HashTable流程圖](Week10/HashTable.png)
 + Week12-Breadth First Search & Depth First Search: [BFS&DFS](Week12/BFS&DFS的學習歷程&流程圖.ipynb)、[BFS流程圖](Week12/BFS.png)、[DFS流程圖](Week12/DFS.png)
+
+
+## Final Exam CheatSheet:
+1. Linkedlist:
++ 功能: 查詢、新增、刪除
++ 元素: Node(儲存value. next pointer). Linkedlist(head. length)
++ 情況:
+    + 查詢(get(self, idx)): 1. idx不在範圍裡:return None 2. idx在範圍裡，就走訪到idx: return value
+    + 新增(addAtHead(x), addAtTail(x), addAtIndex(idx, x)): 
+        + 1.addAtHead. addAtTail: 
+            + 若length == 0: 新增於head
+        + 2. addAtIndex:
+            + idx不在範圍裡: pass
+            + idx == 0: addAtHead
+            + idx == self.length: addAtTail
+            + else idx: 走訪到idx前一個
+    + 刪除(deleteAtIndex(idx)):
+        + 1. idx不在範圍裡: pass
+        + 2. length == 0: pass
+        + 3. idx == 0:
+            + 當length == 1，刪第一個
+        + 4. 
