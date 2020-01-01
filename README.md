@@ -51,3 +51,6 @@
             + 當length > 1
         + 4. 刪尾巴(idx == length - 1 and length>=2)
         + 5. 刪中間
+ 
+ 2. Stack:
+ + 功能: 放入資料(Push)、拿出資料(Pop)、回傳最上面的(
