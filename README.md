@@ -25,36 +25,6 @@
 + Week8-Binary Search Tree: [BinarySearchTree](Week8/BinarySearchTree學習歷程&流程圖.ipynb)、[BST流程圖](Week8/BinarySearchTree.png)、[BinarySearchTree功能說明](Week8/BinarySearchTree功能說明.md)
 + Week10-Hash Table: [HashTable](Week10/HashTable學習歷程&流程圖.ipynb)、[HashTable流程圖](Week10/HashTable.png)
 + Week12-Breadth First Search & Depth First Search: [BFS&DFS](Week12/BFS&DFS的學習歷程&流程圖.ipynb)、[BFS流程圖](Week12/BFS.png)、[DFS流程圖](Week12/DFS.png)
++ Week15-Dijkstra & Kruskal Algorithm: [Dijkstra&Kruskal](HW6/Dijkstra&Kruskal學習歷程&流程圖.ipynb)、[Dijkstra演算法](HW6/Dijkstra.png)、[Kruskal演算法](HW6/Kruskal.png)
 
 
-## Final Exam CheatSheet:
-1. Linkedlist:
-+ 功能: 查詢、新增、刪除
-+ 元素: Node(儲存value. next pointer). Linkedlist(head. length)
-+ 情況:
-    + 查詢(get(self, idx)):
-        + 1. idx不在範圍裡:return None 
-        + 2. idx在範圍裡，就走訪到idx: return value
-    + 新增(addAtHead(x), addAtTail(x), addAtIndex(idx, x)): 
-        + 1. addAtHead. addAtTail: 
-            + 若length == 0: 新增於head
-        + 2. addAtIndex:
-            + idx不在範圍裡: pass
-            + 加在頭: addAtHead
-            + 加在尾: addAtTail
-            + 加中間: 走訪到idx前一個
-    + 刪除(deleteAtIndex(idx)):
-        + 1. idx不在範圍裡: pass
-        + 2. linkedlist的長度為0: pass
-        + 3. 刪開頭(idx == 0):
-            + 當length == 1，刪第一個
-            + 當length > 1
-        + 4. 刪尾巴(idx == length - 1 and length>=2)
-        + 5. 刪中間
- 
- 2. Stack:
- + 功能: 放入資料(Push)、拿出資料(Pop)、回傳最上面的資料(Top)、確認是否有資料(isEmpty)、回傳有多少資料(getSize)
- + 元素: Array
- + 情況: 
-    + 放入資料(Push): 要放在最後
-    + 放入資料(Push): 要放在最後
